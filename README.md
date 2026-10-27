@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Carlos 👋
 
-<!--
-**hhhhy1414-spec/hhhhy1414-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Software.
 
-Here are some ideas to get you started:
+- 🎓 Cursando el tercer semestre
+- 🔐 Me interesa la ciberseguridad
+- 🌐 Redes, bases de datos y desarrollo de apps
+- 🛠️ Aprendiendo y construyendo proyectos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+![SQL](https://img.shields.io/badge/SQL-333?style=flat-square)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-333?style=flat-square)
+![Git](https://img.shields.io/badge/Git-333?style=flat-square)
+
+## Contacto
+
+[GitHub](https://github.com/tu-usuario) · [Instagram](https://instagram.com/tu-usuario)
